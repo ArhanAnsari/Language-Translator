@@ -49,6 +49,7 @@ const countries = {
     "lv-LV": "Latvian",
     "men-SL": "Mende",
     "mg-MG": "Malagasy",
+    "mr-IN": "Marathi",
     "mi-NZ": "Maori",
     "ms-MY": "Malay",
     "mt-MT": "Maltese",
